@@ -1,1 +1,2 @@
 this is file c
+this is the second line added to c
